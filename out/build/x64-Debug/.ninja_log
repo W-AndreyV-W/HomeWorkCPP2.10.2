@@ -1,0 +1,23 @@
+# ninja log v5
+1	80	6988675753930255	build.ninja	1ad7bcf19c6e5545
+4	12	0	clean	8c45b54705a541e8
+13	584	6988683553226032	CMakeFiles/Rectrangle.dir/Rectrangle.cpp.obj	9a48a368d27754c7
+8	601	6988683553386031	CMakeFiles/Quadrilateral.dir/Quadrilateral.cpp.obj	58cd5711550dc3da
+19	612	6988683553416033	CMakeFiles/Rhombus.dir/Rhombus.cpp.obj	c1b5e527c1f7f269
+3	628	6988683553456030	CMakeFiles/Parallelogram.dir/Parallelogram.cpp.obj	a1fcce4636346a57
+31	651	6988683553466032	CMakeFiles/Triangle.dir/Triangle.cpp.obj	ca3bf721983f468e
+47	674	6988683553536032	CMakeFiles/TriangleIsos.dir/TriangleIsos.cpp.obj	3f44ea4837533b3d
+39	695	6988683553616029	CMakeFiles/TriangleEquil.dir/TriangleEquil.cpp.obj	b069a21ec1e89a4a
+60	717	6988683553706029	CMakeFiles/figure_program.dir/HomeWorkCPP2.6.3.cpp.obj	cd749dc8d79c11ab
+54	717	6988683553796030	CMakeFiles/TriangleRight.dir/TriangleRight.cpp.obj	8d322e88f8d83012
+25	734	6988683553826028	CMakeFiles/Square.dir/Square.cpp.obj	c07a08561f0d4d60
+651	754	6988683554806029	Triangle.lib	65b592abc7728c
+585	754	6988683553996025	Rectrangle.lib	fe014177f23c609f
+602	754	6988683554176023	Quadrilateral.lib	3ea43ef0a5b86302
+612	754	6988683554396024	Rhombus.lib	d59c1e0cb1fdadfb
+629	755	6988683554606104	Parallelogram.lib	e6e1951b4b95b718
+674	760	6988683554986019	TriangleIsos.lib	e36789f2a2b207d0
+695	781	6988683555196099	TriangleEquil.lib	7f9638e9f4b35e2d
+717	795	6988683555346021	TriangleRight.lib	9140f045bd2033cf
+734	803	6988683555416024	Square.lib	63fe63c8408e86e3
+803	1074	6988683558001184	figure_program.exe	7f4228953e4b6e91

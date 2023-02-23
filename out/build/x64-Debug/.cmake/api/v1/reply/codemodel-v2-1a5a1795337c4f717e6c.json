@@ -1,0 +1,141 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "figure_project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Parallelogram::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Parallelogram-Debug-7607d7f3abd3943d5d48.json",
+					"name" : "Parallelogram",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Quadrilateral::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Quadrilateral-Debug-b4d22ed3db5ddeb88cfd.json",
+					"name" : "Quadrilateral",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Rectrangle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Rectrangle-Debug-6b5adb6a73939b0b05af.json",
+					"name" : "Rectrangle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Rhombus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Rhombus-Debug-125786c36e4deeb3ca3e.json",
+					"name" : "Rhombus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Square::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Square-Debug-c8c2e17ad9109379ed26.json",
+					"name" : "Square",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Triangle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Triangle-Debug-81c5c9d48426582bf6ed.json",
+					"name" : "Triangle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TriangleEquil::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TriangleEquil-Debug-c45cc71f88af68b80755.json",
+					"name" : "TriangleEquil",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TriangleIsos::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TriangleIsos-Debug-c47857dabeced965117d.json",
+					"name" : "TriangleIsos",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TriangleRight::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TriangleRight-Debug-ce57dd333ac0a0c88d13.json",
+					"name" : "TriangleRight",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "figure_program::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-figure_program-Debug-59c0494d5851df38cbb1.json",
+					"name" : "figure_program",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u041d\u0435\u0442\u043e\u043b\u043e\u0433\u0438\u044f/\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u043d\u0430 \u0421++/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b/HomeWorkCPP2.10.2/out/build/x64-Debug",
+		"source" : "D:/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u041d\u0435\u0442\u043e\u043b\u043e\u0433\u0438\u044f/\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u043d\u0430 \u0421++/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b/HomeWorkCPP2.10.2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
